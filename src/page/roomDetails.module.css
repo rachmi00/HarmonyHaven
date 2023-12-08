@@ -1,0 +1,101 @@
+.container {
+    padding: 10rem 15rem;
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    gap: 3.5rem;
+    margin: 0 auto;
+}
+.price {
+    font-size: 4rem;
+    font-weight: 700;
+    color: #0c141d;
+}
+.price span {
+    font-size: 1.8rem;
+    color: #555354;
+}
+.frontImageBox {
+    min-height: 25rem;
+    max-height: 85vh;
+    border-radius: 2.5rem;
+    position: relative;
+    overflow: hidden;
+}
+.frontImage {
+    height: 100%;
+    width: 100%;
+}
+.basicFacilities {
+    display: flex;
+    gap: 2rem;
+}
+.iconBox {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.iconBox span {
+    font-size: 1.8rem;
+    color: #555354;
+}
+.icon {
+    font-size: 2rem;
+    color: #555354;
+}
+.detailedDescription {
+    font-size: 1.7rem;
+    color: #555354;
+}
+.allFacilities {
+    margin-bottom: 4.5rem;
+}
+.allFacilities h3 {
+    font-size: 2rem;
+    text-transform: capitalize;
+    margin-bottom: 2.5rem;
+    color: #0c141d;
+}
+.allFacilities > div {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.allFacilities >div>div {
+    flex-basis: 30%;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.gallery img {
+    max-height: 22rem;
+    flex-basis: 30%;
+    border-radius: 1rem;
+    margin-bottom: 3.5rem;
+}
+.bookContainer {
+    display: flex;
+    gap: 5rem;
+}
+.bookContainer > input {
+    font-size: 1.8rem;
+    color: #555354;
+    outline: none;
+    border: 1px solid #555354;
+    border-radius: .3rem;
+    padding: 1rem 1.5rem;
+}
+.btn {
+    font-size: 2rem;
+    color: white;
+    padding: 1.5rem 2rem;
+    border-radius: .5rem;
+    background-color: #007cea;
+    transition: .5s;
+    cursor: pointer;
+}
+.btn:hover {
+    transform: scale(1.1);
+}

@@ -4,7 +4,9 @@ import SignUp from './page/SignUp';
 import Login from './page/Login';
 import { BrowserRouter as Router} from 'react-router-dom';
 import {Routes, Route} from 'react-router-dom';
-import Book from './page/Book';
+import Rooms from './page/Rooms';
+import RoomDetails from './page/RoomDetails';
+import Dashboard from './Dashboard';
  
 function App() {
  
@@ -16,7 +18,9 @@ function App() {
               <Route path="/" element={<Home/>}/>
                <Route path="/signup" element={<SignUp/>}/>
                <Route path="/login" element={<Login/>}/>
-               <Route path='/book' element={<Book/>}></Route>
+               <Route path='/book' element={<Rooms/>}></Route>
+               <Route path='/details' element={<RoomDetails/>}/>
+               <Route path='/app' element={<Dashboard/>}/>
             </Routes>                    
         </section>
       </div>
