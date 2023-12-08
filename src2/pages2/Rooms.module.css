@@ -1,0 +1,28 @@
+    /* color: #555354;
+    color: #007cea; */
+
+.container {
+    padding: 10rem 5rem;
+}
+.searchContainer {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-bottom: 4rem;
+}
+.results > p {
+    display: flex;
+    justify-content: center;
+    font-size: 1.6rem;
+    margin-bottom: 2.5rem;
+    color: #555354;
+}
+
+.searchContainer > input {
+    padding: 1.5rem 2rem;
+    font-size: 1.6rem;
+    color: #555354;
+    outline: none;
+    border: 1px solid #555354;
+    border-radius: .3rem;
+}
