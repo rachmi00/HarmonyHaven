@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Harmony LODGE",
+        "imageurls": [
+
+            "https://unsplash.com/photos/white-bed-comforter-Id2IIl1jOB0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+            
+            "https://unsplash.com/photos/black-wooden-table-and-chairs-HQ7xRo6SQ6I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+  
+            
+        ],
+        "rentperday" : 15000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"cool hangout right?"
+    },
+    {
+        "name": "Harmony HANGOUT",
+        "imageurls": [  
+        "https://unsplash.com/photos/black-wooden-table-and-chairs-HQ7xRo6SQ6I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+       "https://unsplash.com/photos/white-bed-pillow-on-bed-EoTUCbv9Jrs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+  
+    ],
+        "rentperday" : 12000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"Its a nice place"
+    },
+    {
+        "name": "Merry home",
+        "imageurls": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.fr%2FHotel_Review-g304551-d8118378-Reviews-OYO_Rooms_New_Delhi_Railway_Station-New_Delhi_National_Capital_Territory_of_Delhi.html&psig=AOvVaw27qEuwjYWHe8K0MXx1fAe_&ust=1701995455851000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDZyKiJ_IIDFQAAAAAdAAAAABAD",
+            "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F08%2F71%2F15%2F09%2Foyo-rooms-majestic.jpg%3Fw%3D700%26h%3D-1%26s%3D1&tbnid=XS2ActxDY0djWM&vet=12ahUKEwitlNulifyCAxWpuCcCHbdRA4IQMygAegQIARAs..i&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g297628-d7921381-Reviews-OYO_Rooms_Majestic-Bengaluru_Bangalore_District_Karnataka.html&docid=K1xZOqQic4ukzM&w=700&h=467&q=oyo%20rooms.cdn.com&ved=2ahUKEwitlNulifyCAxWpuCcCHbdRA4IQMygAegQIARAs"
+        ],
+        "rentperday" : 20000,
+        "maxcount": 5,
+        "currentbookings":[],
+        "description":"Awesome lodge, wonderful experience"
+    },
+    {
+        "name": "FET PALACE",
+        "imageurls": [
+            "https://unsplash.com/photos/a-bed-with-a-white-canopy-in-a-room-nfXzB-X2C10",
+            "https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-chair-bGd1pBfwVMg"
+        ],
+        "rentperday" : 25000,
+        "maxcount": 5,
+        "currentbookings":[],
+        "description":"deluxe suite, definitely worth your money"
+    },
+    {
+        "name": "FETSA PLACE",
+        "imageurls": ["https://unsplash.com/photos/a-bed-with-a-checkered-comforter-and-two-potted-plants-fM70njvSPsc",
+    "https://unsplash.com/photos/white-bed-pillow-on-bed-EoTUCbv9Jrs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"],
+        "rentperday" : 12000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"Hey isn't this where our t-shirts are?"
+    },
+    {
+        "name": "DELUXE suite A",
+        "imageurls": ["https://unsplash.com/photos/a-bed-with-a-checkered-comforter-and-two-potted-plants-fM70njvSPsc",
+    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F08%2F71%2F15%2F09%2Foyo-rooms-majestic.jpg%3Fw%3D700%26h%3D-1%26s%3D1&tbnid=XS2ActxDY0djWM&vet=12ahUKEwitlNulifyCAxWpuCcCHbdRA4IQMygAegQIARAs..i&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g297628-d7921381-Reviews-OYO_Rooms_Majestic-Bengaluru_Bangalore_District_Karnataka.html&docid=K1xZOqQic4ukzM&w=700&h=467&q=oyo%20rooms.cdn.com&ved=2ahUKEwitlNulifyCAxWpuCcCHbdRA4IQMygAegQIARAs"],
+        "rentperday" : 35000,
+        "maxcount": 4,
+        "currentbookings":[],
+        "description":"Here you can rest like a king"
+    },
+    {
+        "name": "FET LODGE1",
+        "imageurls": [
+            "https://unsplash.com/photos/white-bed-comforter-Id2IIl1jOB0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.fr%2FHotel_Review-g304551-d8118378-Reviews-OYO_Rooms_New_Delhi_Railway_Station-New_Delhi_National_Capital_Territory_of_Delhi.html&psig=AOvVaw27qEuwjYWHe8K0MXx1fAe_&ust=1701995455851000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDZyKiJ_IIDFQAAAAAdAAAAABAD"
+        ],
+        "rentperday" : 15000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"cool hangout right?"
+    },
+    {
+        "name": "FET LODGE2",
+        "imageurls": [
+            "https://unsplash.com/photos/white-mattress-beside-sectional-sofa-emqnSQwQQDo",
+            "https://unsplash.com/photos/pillows-on-bed-_WEDFTZV0qU"
+        ],
+        "rentperday" : 15000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"cool hangout right?"
+    },
+    {
+        "name": "FET LODGE3",
+        "imageurls": [
+            "https://unsplash.com/photos/pillows-on-bed-_WEDFTZV0qU",
+            "https://unsplash.com/photos/pillows-on-bed-_WEDFTZV0qU"
+        ],
+        "rentperday" : 15000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"cool hangout right?"
+    },
+    {
+        "name": "FET LODGE4",
+        "imageurls": [
+            
+            "https://unsplash.com/photos/white-bed-comforter-Id2IIl1jOB0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+            
+            "https://unsplash.com/photos/black-wooden-table-and-chairs-HQ7xRo6SQ6I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+  
+        ],
+        "rentperday" : 15000,
+        "maxcount": 3,
+        "currentbookings":[],
+        "description":"cool hangout right?"
+    }
+]
